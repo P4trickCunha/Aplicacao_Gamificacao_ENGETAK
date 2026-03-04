@@ -57,3 +57,13 @@ TestResult.xml
 nunit-*.xml
 
 *.csproj
+
+bin/
+obj/
+
+*.user
+*.suo
+.vs/
+
+*.log
+*.tmp
